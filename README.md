@@ -1,7 +1,7 @@
 
 # Simple 5-Page Website
 
-This project is a basic 5-page website built with HTML, CSS, and a bit of JavaScript. It was created as part of a school assignment. The site includes navigation between pages, a simple gallery, and a projects showcase.
+This project is a basic 5-page website built with HTML, CSS, and a bit of JavaScript. It was created as part of a ddo assignment. The site includes navigation between pages, a simple gallery, and a projects showcase.
 
 ## 📄 Pages
 
